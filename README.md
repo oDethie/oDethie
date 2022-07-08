@@ -7,7 +7,7 @@
 <div align="center">
   <a href="www.linkedin.com/in/odethi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odethie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odethie&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div align="center"><br>
