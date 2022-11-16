@@ -1,7 +1,7 @@
 ### Olá, eu sou o Thiago, estudante de Ciência da Computação
 
 - 🌱 Estudando HTML/CSS/JS
-- 📫 Contate-me no email: odethidesenvolve@gmail.com
+- 📫 Contate-me no email: zandithi8@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
